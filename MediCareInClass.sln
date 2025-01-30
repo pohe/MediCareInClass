@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediCareInClass", "MediCareInClass\MediCareInClass.csproj", "{5D575018-48F7-4C70-B05F-4635E922E839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MedicareTest", "MedicareTest\MedicareTest.csproj", "{2D1233DA-12D4-486B-A3CC-FF23C9B89DFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5D575018-48F7-4C70-B05F-4635E922E839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D575018-48F7-4C70-B05F-4635E922E839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D575018-48F7-4C70-B05F-4635E922E839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D575018-48F7-4C70-B05F-4635E922E839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1233DA-12D4-486B-A3CC-FF23C9B89DFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1233DA-12D4-486B-A3CC-FF23C9B89DFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1233DA-12D4-486B-A3CC-FF23C9B89DFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1233DA-12D4-486B-A3CC-FF23C9B89DFD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2EFE19E-744B-4090-B048-7659A2D61C0C}
+	EndGlobalSection
+EndGlobal
